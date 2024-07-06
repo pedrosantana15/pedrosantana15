@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro491689@gmail.com)
 
 
-![Pedro Santana GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrosantana15&theme=dark&show_icons=true)
+![Pedro Santana GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrosantana15&theme=transparent&show_icons=true)
 
 ## Tecnologias que mais utilizo: 
 
