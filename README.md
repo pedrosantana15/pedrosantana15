@@ -22,5 +22,5 @@
   <img align="center" alt= "git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><br/>
 </div>
 
-# Sou um Desenvolvedor Backend Java em constante aprendizado e apaixonado por programação.
-# Acompanhe meus projetos! 👨🏻‍💻
+Sou um Desenvolvedor Backend Java em constante aprendizado e apaixonado por programação.
+Acompanhe meus projetos! 👨🏻‍💻
