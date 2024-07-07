@@ -1,15 +1,15 @@
 
 
-### Hello World! Eu sou o Pedro Santana 👋
+## Hello World! Eu sou o Pedro Santana 👋
 
-## Me encontre em:
+### Me encontre em:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pedrohsr-santana)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro491689@gmail.com)
 
 
 ![Pedro Santana GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrosantana15&theme=dark&show_icons=true)
 
-## Tecnologias que mais utilizo: 
+### Tecnologias que mais utilizo: 
 
 <div style="display: inline-block"><br/>
   <img align="center" alt= "java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
